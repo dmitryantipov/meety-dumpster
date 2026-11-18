@@ -1,5 +1,7 @@
 # meety-dumpster
 
+![meety-dumpster: pink voxel dumpster with the screen in its front wall and a white pixel flame between the open lids](images/meety-dumpster.jpg)
+
 A 3D-printed 8-bit dumpster fire for the **Waveshare ESP32-C6-LCD-1.47** dev board. The screen sits flush in the
 dumpster's front wall, and the pixel flame on top is the board's button. The flame is lit from inside by the board's
 own RGB LED (LED1).
